@@ -10,5 +10,5 @@ This repository contains the solutions of competitive problems and some round's 
 
 ## Contributing
 
-Each contribution matters and you can visit this page for more details on [Contributing](https://github.com/shan7030/codechef-problems-problems/blob/master/CONTRIBUTING.md)
+Each contribution matters and you can visit this page for more details on [Contributing](https://github.com/shan7030/codechef-problems/blob/master/CONTRIBUTING.md)
  
